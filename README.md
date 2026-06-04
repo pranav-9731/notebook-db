@@ -131,6 +131,21 @@ All mutation routes run server-side validation. Invalid requests return 422 with
 
 ---
 
+## AI Usage
+
+**Claude (Anthropic)** was used as a **development assistant** during this project.
+
+AI assistance was primarily used for:
+
+* Discussing application architecture and project structure.
+* Generating initial code scaffolding and boilerplate components.
+* Explaining Prisma, Next.js, and database integration concepts.
+* Assisting with debugging configuration, deployment, and runtime issues.
+
+All generated code was reviewed, tested, and modified as needed before being included in the final project. The final implementation, integration, debugging, database setup, and deployment were completed by me.
+
+---
+
 ## Lisence: 
 
 **MIT**

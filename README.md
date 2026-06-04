@@ -6,7 +6,7 @@ A full-stack notice board application built with **Next.js (Pages Router)**, **P
 
 ## Live Demo
 
-**Vercel URL:** 
+**Vercel URL:** https://notebook-4zk0fd3is-scizor-9731s-projects.vercel.app/
 
 ---
 
